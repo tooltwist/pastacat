@@ -1,49 +1,31 @@
 ![logo-pastacat-1](https://user-images.githubusercontent.com/848697/28563980-3a4ae720-715a-11e7-8e84-3eb7dfe85cf2.png)
 
-**P**ug  
-**A**ngular 2  
-**S**ass  
-**T**easervice  
-**A**uthservice
-**C**rowdhound  
-**a**nd  
-**T**ooltwist views
+**P** ug  
+**A** ngular 2  
+**S** ass  
+**T** easervice  
+**A** uthservice  
+**C** rowdhound  
+**a**  nd  
+**T**  ooltwist views
 
 
 PastaCat provides instant popup websites for eCommerce and social media.
 
 These are _complete_ sites, containing everything expected by an enterprise development team, not simple scafolding.
-
 They also include scripts for testing, generating documentation and deploying.
-
-
 
 With PastaCat you can create your own Facebook, Trip Advisor, Blog or Forum, 95% complete on day one. Functionality can be added quickly using the library of Angular components, and customized by editing Pug and Scss files. Back-end functionality can be added to the already-running Restful server.
 
-Creating a website is often involves removing functionality, rather than creating functionality.
+Creating a website is often involves more removing functionality than adding functionality.
 
 PastaCat also provides a wonderful training aid, with working examples .
 
-#### With support from:
-
-Yarn  
-Webpack  
-Mandrill  
-Node and NPM  
-Restify  
-Tooltwist views  
-ContentService.io  
-Yeoman  
-Karma  
-Jasmine  
-Prometheus  
-Protractor  
-MySQL  (or choose your favourite DB)  
+With support from:  
+Yarn,  Webpack,  Mandrill,  Node,  Npm,  Restify,  Tooltwist views,  ContentService.io,  Yeoman,  Karma,  Jasmine,  Prometheus,  Protractor,  MySQL  (or choose your favourite DB)  
 
 And optionally using:  
-Cloudinary  
-Mandrille / Mailchimp  
-Clickatel  
+Cloudinary,  Mandrille / Mailchimp,  Clickatel  
 
 
 #### Ten Minutes
@@ -62,18 +44,6 @@ For those who need further functionality, it also includes the following, one of
 - API testing using Cucumber.
 - Skeleton Angular components, ready to push to bower.
 
-#### Deployment options
-
-Amazon AWS or ECS  
-Amazon Elastic Beanstalk  
-Microsoft Azure  
-S3 bucket or other static site  
-Heroku
-
-#### eCommerce options
-Marketplace (multiple vendors)  
-Group buying  
-MLM (multi-level marketing)  
 
 ## 100% Open Source.  
 
@@ -100,7 +70,22 @@ Despite all these technologies, PASTAC is a light weight framework, and can be l
     $ gulp serve
 
 
-#### About PASTAC
+## Options
+#### Deployment options
+
+Amazon AWS or ECS  
+Amazon Elastic Beanstalk  
+Microsoft Azure  
+S3 bucket or other static site  
+Heroku
+
+#### eCommerce options
+Marketplace (multiple vendors)  
+Group buying  
+MLM (multi-level marketing)  
+
+
+## About PASTAC
 
 The PASTAC framework was initially created by the Development team of Tooltwist, and company that provides software development and consulting. With fifteen to twenty major projects in progress at any time, and after more than a hundred application developments over the past ten years, we found the common functionality required by many of our projects, developed micro services, and merged them with the latest development stacks.
 

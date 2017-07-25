@@ -1,5 +1,7 @@
 ![logo-pastacat-1](https://user-images.githubusercontent.com/848697/28563980-3a4ae720-715a-11e7-8e84-3eb7dfe85cf2.png)
 
+---
+
 **P** ug  
 **A** ngular4  
 **S** ass  
@@ -31,7 +33,7 @@ Assumes node and npm are already installed.
     $ gulp serve
 
 
-With **PastaCat** you have a fully responsive eCommerce and Social media site running in ten minutes, with:
+With **PastaCat** you'll have a fully responsive eCommerce and Social media site running in ten minutes, with:
 
 - API Documentation and Sass style documentation, ready to push to Github pages.
 - UI and component testing using Karma, Jasmine, on Chrome / Protractor.
@@ -64,9 +66,6 @@ Despite all these technologies, PASTAC is a light weight framework, and can be l
 
 
 
-
-## Options
-
 ### Deployment options
 
 Amazon AWS or ECS  
@@ -81,13 +80,13 @@ Group buying
 MLM (multi-level marketing)  
 
 
-## About PastaCat
+### About PastaCat
 
-**PastaCat** was initially created by the Development team of Tooltwist, and company that provides software development and consulting. With fifteen to twenty major projects in progress at any time, and after more than a hundred application developments over the past ten years, we found the common functionality required by many of our projects, developed micro services, and merged them with the latest development stacks.
+**PastaCat** was initially created by the development team of [Tooltwist](http://tooltwist.com), and company that provides software development and consulting. With fifteen to twenty major projects in progress at any time, and after more than a hundred application developments over the past ten years, we found the common functionality required by many of our projects, developed micro services, and merged them with the latest development stacks.
 
-The result is a framework that can be used for projects large and small, that gives us - and you - a massive head start on every project.
+The result is a framework that can be used for projects large and small, that gives us - and you - a massive head start on any project.
 
-So why is it free? Well, most of our customers are enterprise customers, and we license them technology for use in-house, host the solution, provide premium functionality, develop cool applications, and in various other ways get paid. We don’t want to earn our income by writing the same code over and over for every project!
+So why is it free? Well, most of our customers are enterprise customers, and we license them technology for use in-house, manage their solution, develop their applications, charge them for the enterprise feature of these services, and in various other ways get paid. We don’t want to earn our income by writing the same code over and over for every project!
 
 So, we host our parts of the the framework (Authservice, TEAservice, ContentService and Crowdhound) for free, and maybe you’ll become an Enterprise customer of ours one day...
 

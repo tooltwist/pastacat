@@ -10,25 +10,19 @@
 **T**  ooltwist views
 
 
-PastaCat provides instant popup websites for eCommerce and social media.
+**PastaCat** creates websites, not scafolding.
 
-These are _complete_ sites, containing everything expected by an enterprise development team, not simple scafolding.
-They also include scripts for testing, generating documentation and deploying.
-
-With PastaCat you can create your own Facebook, Trip Advisor, Blog or Forum, 95% complete on day one. Functionality can be added quickly using the library of Angular components, and customized by editing Pug and Scss files. Back-end functionality can be added to the already-running Restful server.
+With **PastaCat** you can create your own Facebook, Trip Advisor, Blog or Forum, 95% complete on day one. Functionality can be added quickly using the library of Angular components, and customized by editing Pug and Scss files. Back-end functionality can be added to the already-running Restful server.
 
 Creating a website is often involves more removing functionality than adding functionality.
 
-PastaCat also provides a wonderful training aid, with working examples .
-
-With support from:  
-Yarn,  Webpack,  Mandrill,  Node,  Npm,  Restify,  Tooltwist views,  ContentService.io,  Yeoman,  Karma,  Jasmine,  Prometheus,  Protractor,  MySQL  (or choose your favourite DB)  
-
-And optionally using:  
-Cloudinary,  Mandrille / Mailchimp,  Clickatel  
 
 
-#### Ten Minutes
+## Ten Minutes
+
+***Try it now - it takes only 10 minutes* ***  
+
+[* a slow network connection might take a bit longer]
 
 With PASTAC you have a complete, fully responsive eCommerce and/or Social media site running in ten minutes, complete with:
 
@@ -45,19 +39,6 @@ For those who need further functionality, it also includes the following, one of
 - Skeleton Angular components, ready to push to bower.
 
 
-## 100% Open Source.  
-
-Free forever, and upgradable for Enterprise Features and high workloads.
-
-
-Despite all these technologies, PASTAC is a light weight framework, and can be learned quickly. Your site is initially created with all the bells and whistles, and you simply throw away the bits you don’t need.
-
-
-***Try it now - it takes only 10 minutes* ***
-
-[* a slow network connection might take a bit longer]
-
-
 #### Installation
 
 [Assumes node and npm are already installed]
@@ -70,7 +51,26 @@ Despite all these technologies, PASTAC is a light weight framework, and can be l
     $ gulp serve
 
 
+## 100% Open Source.  
+
+Free forever, and upgradable for Enterprise Features and high workloads.
+
+
+
+With help from:  Yarn,  Webpack,  Mandrill,  Node,  Npm,  Restify,  Tooltwist views,  ContentService.io,  Yeoman,  Karma,  Jasmine,  Prometheus,  Protractor,  MySQL  (or choose your favourite DB), and Atom.  
+
+And optionally using:  Cloudinary,  Mandrille / Mailchimp,  Clickatel.
+
+PastaCat also provides a wonderful educational tool and playground for experimenting with these technologies.
+
+
+Despite all these technologies, PASTAC is a light weight framework, and can be learned quickly. Your site is initially created with all the bells and whistles, and you simply throw away the bits you don’t need.
+
+
+
+
 ## Options
+
 #### Deployment options
 
 Amazon AWS or ECS  

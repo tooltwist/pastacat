@@ -1,14 +1,15 @@
 ![logo-pastacat-1](https://user-images.githubusercontent.com/848697/28563980-3a4ae720-715a-11e7-8e84-3eb7dfe85cf2.png)
 
 **P** ug  
-**A** ngular 2  
+**A** ngular4  
 **S** ass  
 **T** easervice  
 **A** uthservice  
 **C** rowdhound  
 **a**  nd  
-**T**  ooltwist views
+**T**  ooltwistViews
 
+---
 
 **PastaCat** creates websites, not scafolding.
 
@@ -24,7 +25,7 @@ Creating a website is often involves more removing functionality than adding fun
 
 [* a slow network connection might take a bit longer]
 
-With PASTAC you have a complete, fully responsive eCommerce and/or Social media site running in ten minutes, complete with:
+With **PastaCat** you have a complete, fully responsive eCommerce and/or Social media site running in ten minutes, with:
 
 - API Documentation and Sass style documentation, ready to push to Github pages.
 - UI and component testing using Karma, Jasmine, on Chrome / Protractor.
@@ -39,9 +40,9 @@ For those who need further functionality, it also includes the following, one of
 - Skeleton Angular components, ready to push to bower.
 
 
-#### Installation
+### Installation
 
-[Assumes node and npm are already installed]
+Assumes node and npm are already installed.
 
     $ npm install yo bower gulp
     ...
@@ -71,7 +72,7 @@ Despite all these technologies, PASTAC is a light weight framework, and can be l
 
 ## Options
 
-#### Deployment options
+### Deployment options
 
 Amazon AWS or ECS  
 Amazon Elastic Beanstalk  
@@ -79,20 +80,34 @@ Microsoft Azure
 S3 bucket or other static site  
 Heroku
 
-#### eCommerce options
+### eCommerce options
 Marketplace (multiple vendors)  
 Group buying  
 MLM (multi-level marketing)  
 
 
-## About PASTAC
+## About PastaCat
 
-The PASTAC framework was initially created by the Development team of Tooltwist, and company that provides software development and consulting. With fifteen to twenty major projects in progress at any time, and after more than a hundred application developments over the past ten years, we found the common functionality required by many of our projects, developed micro services, and merged them with the latest development stacks.
+**PastaCat** was initially created by the Development team of Tooltwist, and company that provides software development and consulting. With fifteen to twenty major projects in progress at any time, and after more than a hundred application developments over the past ten years, we found the common functionality required by many of our projects, developed micro services, and merged them with the latest development stacks.
 
 The result is a framework that can be used for projects large and small, that gives us - and you - a massive head start on every project.
 
 So why is it free? Well, most of our customers are enterprise customers, and we license them technology for use in-house, host the solution, provide premium functionality, develop cool applications, and in various other ways get paid. We don’t want to earn our income by writing the same code over and over for every project!
 
-So, we host our parts of the the framework (Authservice, TEAservice and Crowdhound) for free, and maybe you’ll become an Enterprise customer of ours one day...
+So, we host our parts of the the framework (Authservice, TEAservice, ContentService and Crowdhound) for free, and maybe you’ll become an Enterprise customer of ours one day...
+
+
+## See Also
+
+[ReactaCat](https://github.com/tooltwist/reactacat)
+
+[Authservice.io](http://authservice.io)
+
+[ContentService.io](http://contentservice.io)
+
+[Crowdhound.io](http://crowdhound.io)
+
+[TEAservice.io](http://teaservice.io)
+
 
 

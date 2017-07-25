@@ -21,11 +21,17 @@ Creating a website is often involves more removing functionality than adding fun
 
 ## Ten Minutes
 
-***Try it now - it takes only 10 minutes* ***  
+Assumes node and npm are already installed.
 
-[* a slow network connection might take a bit longer]
+    $ npm install yo bower gulp pastacat-generator
+    ...
+    $ yo pastacat <appname>
+    ...
+    $ cd <appname>
+    $ gulp serve
 
-With **PastaCat** you have a complete, fully responsive eCommerce and/or Social media site running in ten minutes, with:
+
+With **PastaCat** you have a fully responsive eCommerce and Social media site running in ten minutes, with:
 
 - API Documentation and Sass style documentation, ready to push to Github pages.
 - UI and component testing using Karma, Jasmine, on Chrome / Protractor.
@@ -39,17 +45,6 @@ For those who need further functionality, it also includes the following, one of
 - API testing using Cucumber.
 - Skeleton Angular components, ready to push to bower.
 
-
-### Installation
-
-Assumes node and npm are already installed.
-
-    $ npm install yo bower gulp
-    ...
-    $ yo pastac <appname>
-    ...
-    $ cd <appname>
-    $ gulp serve
 
 
 ## 100% Open Source.  

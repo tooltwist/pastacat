@@ -30,7 +30,7 @@ Assumes node and npm are already installed.
     $ yo pastacat <appname>
     ...
     $ cd <appname>
-    $ gulp serve
+    $ gulp main serve
 
 
 With **PastaCat** you'll have a fully responsive eCommerce and Social media site running in ten minutes, with:

@@ -25,7 +25,7 @@ Creating a website is often involves more removing functionality than adding fun
 
 Assumes node and npm are already installed.
 
-    $ npm install yo bower gulp pastacat-generator
+    $ npm install yo bower gulp generator-pastacat
     ...
     $ yo pastacat <appname>
     ...
